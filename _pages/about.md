@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>I am a Ph.D. student in the Mechanical Science and Engineering at University of Iillinois Urbana-Champaign.
+subtitle: <a href='#'> Try to dedicate yourself to benefit all human beings around the world.
 
 profile:
-  align: right
+  align: left
   image: me.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>ME Ph.D. Student</p>
+    <p>Aug 2021 - Present</p>
+    <p>University of Illinois Urbana-Champaign</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
