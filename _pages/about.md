@@ -8,10 +8,10 @@ profile:
   align: left
   image: me.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>ME Ph.D. Student</p>
-    <p>Aug 2021 - Present</p>
-    <p>University of Illinois Urbana-Champaign</p>
+  address: #>
+    # <p>ME Ph.D. Student</p>
+    # <p>Aug 2021 - Present</p>
+    # <p>University of Illinois Urbana-Champaign</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
