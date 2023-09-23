@@ -18,9 +18,8 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-This is some random text -- this should change frontend. We changed
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `me.jpg` and put it in the `img/` folder.
+I'm a Ph.D. student in Mechanical Science and Engineering at the University of Illinois Urbana-Champaign, co-advised by Prof. Jaoa Ramos and Prof. Saurabh Gupta. I received my Master of Science degree in the Robotics Program from the Korea Advanced Institute of Science and Technology (KAIST), fortunately advised by Prof. Dong-soo Kwon. Prior to this, I received my Bachelor's degree in Robotics Program from the University of Kwangwoon in the Republic of Korea. I also worked as a research engineer at ROEN Sugrical Inc, a medical robot startup.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My reserach interests lie in **Robotics, Machine Learning, Control, Embodied Intelligence (sim-to-real transfer)"". My research goal is to build an intelligent robotic system capable of adapting and interacting with its surrounding environment. As a great application of this, I am interested in legged robot and medical robot. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
