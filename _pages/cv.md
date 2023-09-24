@@ -5,7 +5,7 @@ title: cv
 nav: false
 nav_order: 4
 cv_pdf: bdh_cv.pdf
-description: 
+description: My CV can be downloaded here.
 toc:
   sidebar: left
 ---
