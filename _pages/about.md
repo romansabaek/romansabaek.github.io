@@ -23,8 +23,8 @@ I'm a Ph.D. student in Mechanical Science and Engineering at the University of I
 My reserach interests lie in **Robotics, Machine Learning, Control, Embodied Intelligence (sim-to-real transfer)**. My research goal is to build an intelligent robotic system capable of adapting and interacting with its surrounding environment. As a great application of this, I am interested in legged robot and medical robot. 
 
 
-<div class="publications">
+<!-- <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
-</div>
+</div> -->
