@@ -25,8 +25,8 @@ My reserach interests lie in **Robotics, Machine Learning, Control, Embodied Int
 
 <div style="text-align:center">
 
-[CV](https://romansabaek.github.io/files/bdh_cv.pdf)
-[Email me](mailto:romansabaek@gmail.com)
-[Google Scholar](https://scholar.google.com/citations?user=MbsEFrYAAAAJ)
+[CV](https://romansabaek.github.io/files/bdh_cv.pdf) <br>
+[Email me](mailto:romansabaek@gmail.com) <br>
+[Google Scholar](https://scholar.google.com/citations?user=MbsEFrYAAAAJ) <br>
 [Github](https://github.com/romansabaek?tab=repositories)
 </div>
