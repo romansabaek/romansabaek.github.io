@@ -22,12 +22,9 @@ Hello! I'm a Ph.D. student in Mechanical Science and Engineering at the [Univers
 
 My reserach interests lie in **Robotics, Machine Learning, Control, Embodied Intelligence (sim-to-real transfer)**. My research goal is to build an intelligent robotic system capable of adapting and interacting with its surrounding environment. As a great application of this, I am interested in **legged robot** and **medical robot**. 
 
-
 <div style="text-align:center">
-[CV](https://romansabaek.github.io/files/bdh_cv.pdf)
+<a href="https://romansabaek.github.io/files/bdh_cv.pdf">CV</a> <br>
+<a href="mailto:romansabaek@gmail.com">Email me</a> <br>
+<a href="https://scholar.google.com/citations?user=MbsEFrYAAAAJ">Google Scholar</a> <br>
+<a href="https://github.com/romansabaek?tab=repositories">Github</a>
 </div>
-<!-- <div style="text-align:center">
-[Email me](mailto:romansabaek@gmail.com) <br>
-[Google Scholar](https://scholar.google.com/citations?user=MbsEFrYAAAAJ) <br>
-[Github](https://github.com/romansabaek?tab=repositories)
-</div> -->
