@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ROFA
-description: Rescue Robot, ROFA, for Mini Darpa Robotics Challenge
+description: Teleoperated Rescue Robot, ROFA, for Mini Darpa Robotics Challenge
 img: assets/img/rofa/rofa.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-<p><b>1. Project Description:</b> A robotics competition inspired by the DARPA Robotics Challenge that tests robotic capabilities needed in disaster situations.</p>
-<p><b>2. Project Period:</b> 2015.05 ~ 2015.10</p>
-<p><b>3. Team Members:</b> Yitaek Kim, <p><b>Donghoon Baek</b>, Byungha Kim, Hyeongon Kim</p>
+<b>1. Project Description:</b> A robotics competition inspired by the DARPA Robotics Challenge that tests robotic capabilities needed in disaster situations. All participants should creatively design and build a robot to complete the mission using only the provided platform, which includes components like a Raspberry Pi, Dynamixel motors, a camera, and other resources supplied by the competition organizers.
+<b>2. Project Period:</b> 2015.05 ~ 2015.10
+<b>3. Team Members:</b> Yitaek Kim, <b>Donghoon Baek</b>, Byungha Kim, Hyeongon Kim
 
-
+ROFA is a teleoperated rescue robot designed for disaster response, capable of tasks like jumping over hurdles, climbing ladders, opening doors, turning valves, and lifting victims. It features two caterpillar wheels and rear legs for traversing uneven terrain, while the front legs lift victims and raise the main body. Powered by a Raspberry Pi as its main controller and Dynamixel motors for actuation. ROFA is remotely operated through a camera feed from the robot’s perspective. 
 
 
 <div class="row">
@@ -27,20 +27,20 @@ related_publications: einstein1956investigations, einstein1950meaning
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Three transformation modes to effectively pass through specific terrain features.
 </div>
 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rofa/rofa_map.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rofa/rofa_map.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rofa/rofa_function.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rofa/rofa_function.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    In a mini Darpa Robotics Challenge, contest missions include jumping over hurdles, climbing ladders, opening doors, lowering valves, and lifting people down stairs.  
 </div>
 
 
@@ -53,10 +53,16 @@ related_publications: einstein1956investigations, einstein1950meaning
     A rescue robot, ROFA, climbed up to the middle height of a ladder using two arms and caterpillar wheels.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+The system, initially operated remotely via Wi-Fi, was highly vulnerable to communication failures at the competition site. We addressed this issue by upgrading to 5G Wi-Fi modules to increase communication bandwidth. Additionally, we attached an extension lens to the camera to compensate for the limited field of view.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rofa/rofa_award.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Out of the 10 teams that advanced to the finals, we got second prize.  
+</div>
 
 
 
