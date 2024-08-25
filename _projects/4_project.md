@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2D Manipulator Task Space Control
+title: TWO-DEGREE-OF-FREEDOM ROBOT MANIPULATOR CONTROL
 description: Undergraduate Project
 img: assets/img/2d/2d_fig.png
 importance: 1
