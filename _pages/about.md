@@ -2,7 +2,7 @@
 layout: about
 title: bio
 permalink: /
-subtitle: <a href='#'> Try to dedicate yourself to benefit all human beings around the world.
+subtitle: <a href='#'> Reality = Vivid Dream.
 
 profile:
   align: left
