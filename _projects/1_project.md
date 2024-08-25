@@ -10,7 +10,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 
 <p><b>1. Project Description:</b> A robotics competition inspired by the DARPA Robotics Challenge that tests robotic capabilities needed in disaster situations.</p>
 <p><b>2. Project Period:</b> 2015.05 ~ 2015.10</p>
-<p><b>3. Team Members:</b> Yitaek Kim, Donghoon Baek, Byungha Kim, Hyeongon Kim</p>
+<p><b>3. Team Members:</b> Yitaek Kim, <p><b>Donghoon Baek</b>, Byungha Kim, Hyeongon Kim</p>
 
 
 
