@@ -8,9 +8,10 @@ category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+1. Project Description: A robotics competition inspired by the DARPA Robotics Challenge that tests robotic capabilities needed in disaster situations.
+2. Project Period: 2015.05 ~ 2015.10 
+3. Team Member: Yitaek Kim, Donghoon Baek, Byungha Kim, Hyeongon Kim
+4. 
 
 
 
