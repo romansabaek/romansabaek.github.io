@@ -41,7 +41,7 @@ ROFA is a teleoperated rescue robot designed for disaster response, capable of t
     </div>
 </div>
 <div class="caption">
-    In a mini Darpa Robotics Challenge, contest missions include jumping over hurdles, climbing ladders, opening doors, lowering valves, and lifting people down stairs.  
+    In mini Darpa Robotics Challenge, contest missions include jumping over hurdles, climbing ladders, opening doors, lowering valves, and lifting people down stairs.  
 </div>
 
 
@@ -62,7 +62,7 @@ The system, initially operated remotely via Wi-Fi, was highly vulnerable to comm
     </div>
 </div>
 <div class="caption">
-    Out of the 10 teams that advanced to the finals, we got second prize. Only top three teams were selected to showcase a robot demo at the IEEE Humanoids Conference 2015, held in Seoul, Korea. 
+    Out of the 10 teams that advanced to the finals, we got <b>second prize</b>. Only top three teams were selected to showcase a robot demo at the IEEE Humanoids Conference 2015, held in Seoul, Korea. 
 </div>
 
 
