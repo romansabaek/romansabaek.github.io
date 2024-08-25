@@ -61,7 +61,7 @@ The system, initially operated remotely via Wi-Fi, was highly vulnerable to comm
     </div>
 </div>
 <div class="caption">
-    Out of the 10 teams that advanced to the finals, we got second prize.  
+    Out of the 10 teams that advanced to the finals, we got second prize. Only top three teams were selected to showcase a robot demo at the IEEE Humanoids Conference 2015, held in Seoul, Korea. 
 </div>
 
 
