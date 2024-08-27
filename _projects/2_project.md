@@ -51,3 +51,18 @@ related_publications: einstein1956investigations, einstein1950meaning
 <div class="caption text-center">
     The rescue robot ROSA can push a button, rotate lib, and open a door.
 </div>
+
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="assets/img/rosa/vision.gif" title="ROSA driving capability test" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
+    </div>
+</div>
+
+
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="assets/img/rosa/slam.gif" title="ROSA driving capability test" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
+    </div>
+</div>
+
+
