@@ -27,3 +27,13 @@ related_publications: einstein1956investigations, einstein1950meaning
 <div class="caption">
     A rescue robot, ROFA, climbed up to the middle height of a ladder using two arms and caterpillar wheels.
 </div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rosa/manipulator.gif" title="ROSA driving capability test" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A rescue robot, ROFA, climbed up to the middle height of a ladder using two arms and caterpillar wheels.
+</div>
