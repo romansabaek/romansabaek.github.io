@@ -19,21 +19,35 @@ related_publications: einstein1956investigations, einstein1950meaning
 
 <b>5. Teleoperated Rescue Robot ROFA:</b> We developed ROSA, an advanced version of the teleoperated rescue robot ROFA (see another project). ROSA features two main caterpillar tracks on its body and four additional tracks on its legs for enhanced mobility. It includes a 6-DOF manipulator, tactile sensors, a microphone, and an onboard laptop PC that can be accessed via Wi-Fi for teleoperation. A custom, user-friendly graphical interface was developed to facilitate remote control of the robot.
 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rosa/rosa.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rosa/rosa2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    ROFA (left) is designed to explore harsh terrain and assist in rescuing victims. Its small size allows it to navigate rescue areas, map the environment, and gather critical information.
+</div>
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/rosa/driving_whole.gif" title="ROSA driving capability test" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A rescue robot, ROFA, climbed up to the middle height of a ladder using two arms and caterpillar wheels.
+    The rescue robot ROSA can climb stairs and traverse uneven terrain.
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rosa/manipulator.gif" title="ROSA driving capability test" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="assets/img/rosa/manipulator.gif" title="ROSA driving capability test" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
     </div>
 </div>
-<div class="caption">
-    A rescue robot, ROFA, climbed up to the middle height of a ladder using two arms and caterpillar wheels.
+<div class="caption text-center">
+    The rescue robot ROSA can push a button, rotate lib, and open a door.
 </div>
