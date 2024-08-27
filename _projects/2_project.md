@@ -17,4 +17,13 @@ related_publications: einstein1956investigations, einstein1950meaning
 <p><b>4. My Role: I was primarily responsible for 1) designing and controlling the 6-DOF manipulator, 2) controlling the four legs equipped with caterpillar tracks, and 3) developing the GUI for motor control. </b></p>
 
 
-We developed ROSA, an advanced version of the teleoperated rescue robot ROFA (see another project). ROSA features two main caterpillar tracks on its body and four additional tracks on its legs for enhanced mobility. It includes a 6-DOF manipulator, tactile sensors, a microphone, and an onboard laptop PC that can be accessed via Wi-Fi for teleoperation. A custom, user-friendly graphical interface was developed to facilitate remote control of the robot.
+<b>5. Teleoperated Rescue Robot ROFA:</b> We developed ROSA, an advanced version of the teleoperated rescue robot ROFA (see another project). ROSA features two main caterpillar tracks on its body and four additional tracks on its legs for enhanced mobility. It includes a 6-DOF manipulator, tactile sensors, a microphone, and an onboard laptop PC that can be accessed via Wi-Fi for teleoperation. A custom, user-friendly graphical interface was developed to facilitate remote control of the robot.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rosa/driving_whole.mp4" title="Rescue Robot Challenge" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A rescue robot, ROFA, climbed up to the middle height of a ladder using two arms and caterpillar wheels.
+</div>
