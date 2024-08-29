@@ -111,13 +111,16 @@ related_publications: einstein1956investigations, einstein1950meaning
 </div>
 <div class="row">
     <div class="col-sm-6 mt-3">
-        {% include figure.html path="assets/img/rosa/robocup.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rosa/robocup.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3">
         {% include figure.html path="assets/img/rosa/romansa.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3">
         {% include figure.html path="assets/img/rosa/travel.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3">
+        {% include figure.html path="assets/img/rosa/othersrobot.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
