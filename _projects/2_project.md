@@ -72,9 +72,12 @@ related_publications: einstein1956investigations, einstein1950meaning
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/rosa/system_architecture.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rosa/teleop.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
-    We developed a user-friendly GUI for easy robot operation and real-time monitoring of key data. The system flow is shown in the figure on the right.
+    We developed a user-friendly GUI for easy robot operation and real-time monitoring of key data. The system flow is shown in the figure on the right. ROSA is fully controlled through remote teleoperation.
 </div>
 
 
@@ -96,3 +99,28 @@ related_publications: einstein1956investigations, einstein1950meaning
     We developed a SLAM function to generate real-time maps of unknown environments by customizing ROS1's open-source SLAM package..
 </div>
 
+
+
+<div class="row">
+    <div class="col-sm-6 mt-3">
+        {% include figure.html path="assets/img/rosa/poster.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3">
+        {% include figure.html path="assets/img/rosa/quix.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-6 mt-3">
+        {% include figure.html path="assets/img/rosa/robocup.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3">
+        {% include figure.html path="assets/img/rosa/romansa.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3">
+        {% include figure.html path="assets/img/rosa/travel.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+In RoboCup, we were the only team composed entirely of undergraduate students, competing against teams with graduate-level or higher members. Lacking financial resources to build a robot, we visited schools, professors, and companies to borrow expensive equipment like motors and drivers. Despite these challenges, we placed 11th out of 24 teams in the finals and won the Best Student Paper Award at a domestic robotics academic conference in Korea.
+</div>
