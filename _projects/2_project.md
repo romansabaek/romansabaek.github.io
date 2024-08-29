@@ -17,7 +17,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 <p><b>4. My Role: I was primarily responsible for 1) designing and controlling the 6-DOF manipulator, 2) controlling the four legs equipped with caterpillar tracks, and 3) developing the GUI for motor control. </b></p>
 
 
-<b>5. Teleoperated Rescue Robot ROFA:</b> We developed ROSA, an advanced version of the teleoperated rescue robot ROFA (see another project). ROSA features two main caterpillar tracks on its body and four additional tracks on its legs for enhanced mobility. It includes a 6-DOF manipulator, tactile sensors, a microphone, and an onboard laptop PC that can be accessed via Wi-Fi for teleoperation. A custom, user-friendly graphical interface was developed to facilitate remote control of the robot.
+<b>5. Teleoperated Rescue Robot ROFA:</b> We developed ROSA, an advanced version of the teleoperated rescue robot ROFA (see another project). ROSA features two main caterpillar tracks on its body and four additional tracks on its legs for enhanced mobility. It includes a 6-DOF manipulator, CO2 sensors, IMU, a microphone, and an onboard laptop PC that can be accessed via Wi-Fi for teleoperation. A custom, user-friendly graphical interface was developed to facilitate remote control of the robot.
 
 
 <div class="row">
@@ -32,6 +32,17 @@ related_publications: einstein1956investigations, einstein1950meaning
     ROFA (left) is designed to explore harsh terrain and assist in rescuing victims. Its small size allows it to navigate rescue areas, map the environment, and gather critical information.
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rosa/maindriving.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rosa/stabilizer.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    ROSA features four modular caterpillar wheels, allowing it to flexibly adjust its body size. A small size ROSA can stabilize its radar sensor. 
+</div>
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
@@ -49,20 +60,39 @@ related_publications: einstein1956investigations, einstein1950meaning
     </div>
 </div>
 <div class="caption text-center">
-    The rescue robot ROSA can push a button, rotate lib, and open a door.
+    The rescue robot ROSA can push a button, rotate lib, and open a door. To enable more intuitive control of the manipulator, we implemented numerical inverse kinematics, allowing the manipulator to track the desired task-space reference.   
 </div>
+
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rosa/gui.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rosa/system_architecture.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    We developed a user-friendly GUI for easy robot operation and real-time monitoring of key data. The system flow is shown in the figure on the right.
+</div>
+
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/rosa/vision.gif" title="ROSA driving capability test" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
     </div>
 </div>
-
+<div class="caption">
+    A small ROSA is capable of recognizing human faces, intended for identifying victims.
+</div>
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/rosa/slam.gif" title="ROSA driving capability test" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
     </div>
 </div>
-
+<div class="caption">
+    We developed a SLAM function to generate real-time maps of unknown environments by customizing ROS1's open-source SLAM package..
+</div>
 
