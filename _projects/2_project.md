@@ -12,7 +12,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 
 <p>For more details about a RoboCup Rescue Robot Challenge, visit: <a href="https://www.nist.gov/el/intelligent-systems-division-73500/robocuprescue-league-2016">Link to competition</a></p>
 
-<p><b>2. Project Period:</b> 2016.01 ~ 2016.07 </p>
+<p><b>2. Project Period:</b> Jan 2016 ~ Jul 2016 </p>
 <p><b>3. Team Members:</b> <b>Donghoon Baek</b>, Yitaek Kim, Hansoul Kim, SuYeon Lee, Hyeongon Kim, Hyeonseok Lee, Taemin Hwang </p>
 <p><b>4. Advisor: </b> Prof. Juhoon Back and Prof. Hwang Jo</p>
 <p><b>5. My Role: </b> I was primarily responsible for 1) designing and controlling the 6-DOF manipulator, 2) controlling the four legs equipped with caterpillar tracks, and 3) developing the GUI for motor control. After RoboCup, I took on the role of team leader, guiding the team to participate in the IT Challenge at Kwangwoon University and submit an academic paper to the Korea domestic conference (KROC2017). Luckily, we got the best paper award at the academic conference. </p>
@@ -76,7 +76,7 @@ related_publications: einstein1956investigations, einstein1950meaning
     </div>
 </div>
 <div class="caption text-center">
-    The rescue robot ROSA can push a button, rotate lib, and open a door. To enable more intuitive control of the manipulator, I and Hansoul implemented numerical inverse kinematics, allowing the manipulator to track the desired task-space reference.   
+    The rescue robot ROSA can push a button, rotate lib, and open a door. To enable more intuitive control of the manipulator, I and Hansoul implemented numerical inverse kinematics, allowing the manipulator to track the desired task-space reference. Plus, we designed the manipulator and developed a GUI for user-friendly interface.  
 </div>
 
 
