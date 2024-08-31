@@ -11,9 +11,22 @@ related_publications: einstein1956investigations, einstein1950meaning
 <p><b>1. Project Description:</b> Mini Darpa robotics challenge is a robotics competition inspired by the DARPA Robotics Challenge that evaluates robotic capabilities needed in disaster situations. All participants should creatively design and build a robot to complete the mission using only the provided platform, which includes components like a Raspberry Pi, Dynamixel motors, a camera, and other resources supplied by the competition organizers. </p>
 <p><b>2. Project Period:</b> May 2015 ~ Oct 2015 </p>
 <p><b>3. Team Members:</b> Yitaek Kim, <b>Donghoon Baek</b>, Byungha Kim, Hyeongon Kim </p>
-<p><b>4. Advisor: Prof. Juhoon Back
+<p><b>4. Advisor: Prof. Juhoon Back </b>
 <p><b>5. Required Skills: CAD design (Solidworks), Rasberry Pi (Linux), Serial Communication (RS-485), Motor Control (Dynamixels), C++ </b></p>
 
+<p><b> Team ROMANSA formed</b>
+During my third year of college, we formed Team ROMANSA with like-minded students interested in building and operating real robots. Instead of joining an official club, we created our own team to conduct independent research, re-organizing a long-unused department storage room into our research lab.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rofa/office.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    All of our team's journeys started in a messy 'warehouse-like' small room. Our team member: (from left) Hyeongon Kim, me, Byungha Kim, and Yitaek Kim.
+</div>
+
+<p><b> ROmansa First Avenger (ROFA) </b>
 ROFA is a teleoperated rescue robot designed for disaster response, capable of tasks like jumping over hurdles, climbing ladders, opening doors, turning valves, and lifting victims. It features two caterpillar wheels and rear legs for traversing uneven terrain, while the front legs lift victims and raise the main body. Powered by a Raspberry Pi as its main controller and Dynamixel motors for actuation. ROFA is remotely operated through a camera feed from the robot’s perspective. 
 
 
@@ -37,13 +50,31 @@ ROFA is a teleoperated rescue robot designed for disaster response, capable of t
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/rofa/rofa_map.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rofa/rofa_function.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption">
     In mini Darpa Robotics Challenge, contest missions include jumping over hurdles, climbing ladders, opening doors, lowering valves, and lifting people down stairs.  
 </div>
+
+<div class="row">
+    <div class="col-sm-6 mt-3">
+        {% include figure.html path="assets/img/rofa/rofa_f1.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3">
+        {% include figure.html path="assets/img/rofa/rofa_f2.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3">
+        {% include figure.html path="assets/img/rofa/rofa_f3.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3">
+        {% include figure.html path="assets/img/rofa/rofa_f4.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+
+
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
