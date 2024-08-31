@@ -45,10 +45,18 @@ ROFA is a teleoperated rescue robot designed for disaster response, capable of t
     In mini Darpa Robotics Challenge, contest missions include jumping over hurdles, climbing ladders, opening doors, lowering valves, and lifting people down stairs.  
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rofa/rofa1.gif" title="Rescue Robot Challenge" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A rescue robot, ROFA, jumped over the huddles.
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rofa/rofa.gif" title="Rescue Robot Challenge" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rofa/rofa2.gif" title="Rescue Robot Challenge" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
