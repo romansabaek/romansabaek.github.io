@@ -15,10 +15,22 @@ related_publications: einstein1956investigations, einstein1950meaning
 <p><b>2. Project Period:</b> 2016.01 ~ 2016.07 </p>
 <p><b>3. Team Members:</b> <b>Donghoon Baek</b>, Yitaek Kim, Hansoul Kim, SuYeon Lee, Hyeongon Kim, Hyeonseok Lee, Taemin Hwang </p>
 <p><b>4. Advisor: </b> Prof. Juhoon Back and Prof. Hwang Jo</p>
-<p><b>5. My Role: I was primarily responsible for 1) designing and controlling the 6-DOF manipulator, 2) controlling the four legs equipped with caterpillar tracks, and 3) developing the GUI for motor control. After RoboCup, I took on the role of team leader, guiding the team to participate in the IT Challenge at Kwangwoon University and submit an academic paper to the Korea domestic conference (KROC2017). Luckily, we got the best paper award at the academic conference. </b></p>
+<p><b>5. My Role: </b> I was primarily responsible for 1) designing and controlling the 6-DOF manipulator, 2) controlling the four legs equipped with caterpillar tracks, and 3) developing the GUI for motor control. After RoboCup, I took on the role of team leader, guiding the team to participate in the IT Challenge at Kwangwoon University and submit an academic paper to the Korea domestic conference (KROC2017). Luckily, we got the best paper award at the academic conference. </p>
 
-<p><b> New Members are joined to Team ROMANSA: </b></p>
+<p><b>6. New Members are joined to Team ROMANSA: </b></p>
 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rosa/romansa1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rosa/romansa2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    (From left) Hansoul Kim, Hyeonseok Lee, <b>Donghoon Baek</b>, SuYeon Lee, Hyeongon Kim, Taemin Hwang, and Yitaek Kim. 
+</div>
 
 <p><b> ROmansa Second Avenger (ROSA) </b></p>
 <p> We developed ROSA, an advanced version of the teleoperated rescue robot ROFA (see another project). ROSA features two main caterpillar tracks on its body and four additional tracks on its legs for enhanced mobility. It includes a 6-DOF manipulator, CO2 sensors, IMU, a microphone, and an onboard laptop PC that can be accessed via Wi-Fi for teleoperation. A custom, user-friendly graphical interface was developed to facilitate remote control of the robot. </p>
