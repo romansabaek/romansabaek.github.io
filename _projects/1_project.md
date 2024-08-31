@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ROFA
+title: <b>ROFA: Teleoperated Rescue Robot </b>
 description: Teleoperated Rescue Robot, ROFA, for Mini Darpa Robotics Challenge (Undergraduate Project, 2015)
 img: assets/img/rofa/rofa.jpg
 importance: 1
