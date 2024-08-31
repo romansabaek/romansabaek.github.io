@@ -15,7 +15,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 <p><b>5. Required Skills: CAD design (Solidworks), Rasberry Pi (Linux), Serial Communication (RS-485), Motor Control (Dynamixels), C++ </b></p>
 
 <p><b> Team ROMANSA formed: </b></p>
-During my third year of college, we formed Team ROMANSA with like-minded students interested in building and operating real robots. Instead of joining an official club, we created our own team to conduct independent research, re-organizing a long-unused department storage room into our research lab.
+<p> During my third year of college, we formed Team ROMANSA with like-minded students interested in building and operating real robots. Instead of joining an official club, we created our own team to conduct independent research, re-organizing a long-unused department storage room into our research lab. </p>
 
 
 <div class="row justify-content-sm-center">
@@ -29,7 +29,7 @@ During my third year of college, we formed Team ROMANSA with like-minded student
 
 
 <p><b> ROmansa First Avenger (ROFA) </b></p>
-<p> ROFA is a teleoperated rescue robot designed for disaster response, capable of tasks like jumping over hurdles, climbing ladders, opening doors, turning valves, and lifting victims. It features two caterpillar wheels and rear legs for traversing uneven terrain, while the front legs lift victims and raise the main body. Powered by a Raspberry Pi as its main controller and Dynamixel motors for actuation. ROFA is remotely operated through a camera feed from the robot’s perspective. </p>
+<p> ROFA is a teleoperated rescue robot designed for disaster response, capable of tasks like jumping over hurdles, climbing ladders, opening doors, turning valves, and lifting victims. It features two caterpillar wheels and rear legs for traversing uneven terrain, while the front legs lift victims and raise the main body. Powered by a Raspberry Pi as its main controller and Dynamixel motors for actuation. ROFA operates by remotely connecting to the Raspberry Pi via Wi-Fi. The user assesses the environment through the camera view and controls the robot via teleoperation. ROFA's key feature is its ability to transform into terrain-specific modes to effectively navigate diverse terrains.  </p>
 
 
 <div class="row">
@@ -66,20 +66,18 @@ During my third year of college, we formed Team ROMANSA with like-minded student
         {% include figure.html path="assets/img/rofa/rofa_f1.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3">
-        {% include figure.html path="assets/img/rofa/rofa_f2.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rofa/rofa_f4.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3">
         {% include figure.html path="assets/img/rofa/rofa_f3.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3">
-        {% include figure.html path="assets/img/rofa/rofa_f4.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rofa/rofa_f2.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 
-
-
-
+<p> Depending on the terrain, the ROFA can be narrowed down in size or operated while standing up. For safe rescues, the internal structure of the body is designed to unfold using a "hinge" mechanism. This structure, along with two arms, supports the person from the floor, while a cover enhances safety. When climbing a ladder, the caterpillar wheels, arm hooks, and the moment of inertia of the hind legs work together for stability. </p>
 
 
 <div class="row">
@@ -103,7 +101,7 @@ During my third year of college, we formed Team ROMANSA with like-minded student
 The system, initially operated remotely via Wi-Fi, was highly vulnerable to communication failures at the competition site. We addressed this issue by upgrading to 5G Wi-Fi modules to increase communication bandwidth. Additionally, we attached an extension lens to the camera to compensate for the limited field of view.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.html path="assets/img/rofa/rofa_award.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
