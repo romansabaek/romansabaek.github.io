@@ -61,7 +61,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 </div>
 
 <div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 text-center">
+    <div class="col-sm mt-5 mt-md-0 text-center">
         {% include figure.html path="assets/img/rosa/driving_whole.gif" title="ROSA driving capability test" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -71,7 +71,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 
 
 <div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 text-center">
+    <div class="col-sm mt-8 mt-md-0 text-center">
         {% include figure.html path="assets/img/rosa/manipulator.gif" title="ROSA driving capability test" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
     </div>
 </div>
