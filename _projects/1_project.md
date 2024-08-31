@@ -8,10 +8,11 @@ category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-<p><b>1. Project Description:</b> A robotics competition inspired by the DARPA Robotics Challenge that tests robotic capabilities needed in disaster situations. All participants should creatively design and build a robot to complete the mission using only the provided platform, which includes components like a Raspberry Pi, Dynamixel motors, a camera, and other resources supplied by the competition organizers. </p>
-<p><b>2. Project Period:</b> 2015.05 ~ 2015.10 </p>
+<p><b>1. Project Description:</b> Mini Darpa robotics challenge is a robotics competition inspired by the DARPA Robotics Challenge that evaluates robotic capabilities needed in disaster situations. All participants should creatively design and build a robot to complete the mission using only the provided platform, which includes components like a Raspberry Pi, Dynamixel motors, a camera, and other resources supplied by the competition organizers. </p>
+<p><b>2. Project Period:</b> May 2015 ~ Oct 2015 </p>
 <p><b>3. Team Members:</b> Yitaek Kim, <b>Donghoon Baek</b>, Byungha Kim, Hyeongon Kim </p>
-<p><b>4. Required Skills: CAD design (Solidworks), Rasberry Pi (Linux), Serial Communication (RS-485), Motor Control (Dynamixels), C++ </b></p>
+<p><b>4. Advisor: Prof. Juhoon Back
+<p><b>5. Required Skills: CAD design (Solidworks), Rasberry Pi (Linux), Serial Communication (RS-485), Motor Control (Dynamixels), C++ </b></p>
 
 ROFA is a teleoperated rescue robot designed for disaster response, capable of tasks like jumping over hurdles, climbing ladders, opening doors, turning valves, and lifting victims. It features two caterpillar wheels and rear legs for traversing uneven terrain, while the front legs lift victims and raise the main body. Powered by a Raspberry Pi as its main controller and Dynamixel motors for actuation. ROFA is remotely operated through a camera feed from the robot’s perspective. 
 
