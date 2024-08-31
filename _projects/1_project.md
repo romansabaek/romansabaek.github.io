@@ -29,7 +29,7 @@ During my third year of college, we formed Team ROMANSA with like-minded student
 
 
 <p><b> ROmansa First Avenger (ROFA) </b></p>
-ROFA is a teleoperated rescue robot designed for disaster response, capable of tasks like jumping over hurdles, climbing ladders, opening doors, turning valves, and lifting victims. It features two caterpillar wheels and rear legs for traversing uneven terrain, while the front legs lift victims and raise the main body. Powered by a Raspberry Pi as its main controller and Dynamixel motors for actuation. ROFA is remotely operated through a camera feed from the robot’s perspective. 
+<p> ROFA is a teleoperated rescue robot designed for disaster response, capable of tasks like jumping over hurdles, climbing ladders, opening doors, turning valves, and lifting victims. It features two caterpillar wheels and rear legs for traversing uneven terrain, while the front legs lift victims and raise the main body. Powered by a Raspberry Pi as its main controller and Dynamixel motors for actuation. ROFA is remotely operated through a camera feed from the robot’s perspective. </p>
 
 
 <div class="row">
@@ -47,15 +47,19 @@ ROFA is a teleoperated rescue robot designed for disaster response, capable of t
     Three transformation modes to effectively pass through specific terrain features.
 </div>
 
+<p> ROFA can adapt its style to perform different tasks more efficiently, inspired by the movie 'Transformer.' We created a motion library that allows users to switch states via teleoperation. </p>
+
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.html path="assets/img/rofa/rofa_map.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     In mini Darpa Robotics Challenge, contest missions include jumping over hurdles, climbing ladders, opening doors, lowering valves, and lifting people down stairs.  
 </div>
+
+<p> ROFA can adapt its style to perform different tasks more efficiently, inspired by the movie 'Transformer.' We created a motion library that allows users to switch states via teleoperation. </p>
 
 <div class="row">
     <div class="col-sm-6 mt-3">
