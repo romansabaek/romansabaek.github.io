@@ -66,7 +66,7 @@ related_publications: einstein1956investigations, einstein1950meaning
     </div>
 </div>
 <div class="caption text-center">
-    The rescue robot ROSA can climb stairs and traverse uneven terrain.
+    The rescue robot ROSA can climb stairs and traverse uneven terrain. I was in charge of controlling a joint part of four caterpillar wheels. 
 </div>
 
 
@@ -76,7 +76,7 @@ related_publications: einstein1956investigations, einstein1950meaning
     </div>
 </div>
 <div class="caption text-center">
-    The rescue robot ROSA can push a button, rotate lib, and open a door. To enable more intuitive control of the manipulator, we implemented numerical inverse kinematics, allowing the manipulator to track the desired task-space reference.   
+    The rescue robot ROSA can push a button, rotate lib, and open a door. To enable more intuitive control of the manipulator, I and Hansoul implemented numerical inverse kinematics, allowing the manipulator to track the desired task-space reference.   
 </div>
 
 
