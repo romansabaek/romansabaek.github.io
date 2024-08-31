@@ -112,7 +112,7 @@ related_publications: einstein1956investigations, einstein1950meaning
     </div>
 </div>
 <div class="caption">
-    We developed a SLAM function to generate real-time maps of unknown environments by customizing ROS1's open-source SLAM package..
+    We developed a SLAM function to generate real-time maps of unknown environments by customizing ROS1's open-source SLAM package.
 </div>
 
 
