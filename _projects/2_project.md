@@ -20,7 +20,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 <p><b>6. New Members are joined to Team ROMANSA: </b></p>
 
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/rosa/romansa1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -36,7 +36,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 <p> We developed ROSA, an advanced version of the teleoperated rescue robot ROFA (see another project). ROSA features two main caterpillar tracks on its body and four additional tracks on its legs for enhanced mobility. It includes a 6-DOF manipulator, CO2 sensors, IMU, a microphone, and an onboard laptop PC that can be accessed via Wi-Fi for teleoperation. A custom, user-friendly graphical interface was developed to facilitate remote control of the robot. </p>
 
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/rosa/rosa.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -48,7 +48,7 @@ related_publications: einstein1956investigations, einstein1950meaning
     ROFA (left) is designed to explore harsh terrain and assist in rescuing victims. Its small size allows it to navigate rescue areas, map the environment, and gather critical information.
 </div>
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/rosa/maindriving.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -81,7 +81,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 
 
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/rosa/gui.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -117,7 +117,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 
 
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm-6 mt-3">
         {% include figure.html path="assets/img/rosa/poster.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -126,7 +126,7 @@ related_publications: einstein1956investigations, einstein1950meaning
     I had the opportunity to explain our robot, ROSA, to the University President in the IT competition at Kwangwoon University, South Korea.
 </div>
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm-6 mt-3">
         {% include figure.html path="assets/img/rosa/quix.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -137,7 +137,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 
 
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm-6 mt-3">
         {% include figure.html path="assets/img/rosa/robocup.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
