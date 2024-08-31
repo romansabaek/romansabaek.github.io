@@ -32,7 +32,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 <p> ROFA is a teleoperated rescue robot designed for disaster response, capable of tasks like jumping over hurdles, climbing ladders, opening doors, turning valves, and lifting victims. It features two caterpillar wheels and rear legs for traversing uneven terrain, while the front legs lift victims and raise the main body. Powered by a Raspberry Pi as its main controller and Dynamixel motors for actuation. ROFA operates by remotely connecting to the Raspberry Pi via Wi-Fi. The user assesses the environment through the camera view and controls the robot via teleoperation. ROFA's key feature is its ability to transform into terrain-specific modes to effectively navigate diverse terrains.  </p>
 
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/rofa/up.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -61,7 +61,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 
 <p> ROFA can adapt its style to perform different tasks more efficiently, inspired by the movie 'Transformer.' We created a motion library that allows users to switch states via teleoperation. </p>
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm-6 mt-3">
         {% include figure.html path="assets/img/rofa/rofa_f1.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -80,7 +80,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 <p> Depending on the terrain, the ROFA can be narrowed down in size or operated while standing up. For safe rescues, the internal structure of the body is designed to unfold using a "hinge" mechanism. This structure, along with two arms, supports the person from the floor, while a cover enhances safety. When climbing a ladder, the caterpillar wheels, arm hooks, and the moment of inertia of the hind legs work together for stability. </p>
 
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/rofa/rofa1.gif" title="Rescue Robot Challenge" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -89,7 +89,7 @@ related_publications: einstein1956investigations, einstein1950meaning
     A rescue robot, ROFA, jumped over the huddles.
 </div>
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/rofa/rofa2.gif" title="Rescue Robot Challenge" class="img-fluid rounded z-depth-1" %}
     </div>
