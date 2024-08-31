@@ -121,10 +121,22 @@ related_publications: einstein1956investigations, einstein1950meaning
     <div class="col-sm-6 mt-3">
         {% include figure.html path="assets/img/rosa/poster.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    I had the opportunity to explain our robot, ROSA, to the University President in the IT competition at Kwangwoon University, South Korea.
+</div>
+
+<div class="row">
     <div class="col-sm-6 mt-3">
         {% include figure.html path="assets/img/rosa/quix.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    The poster we made to show all functions of ROSA.
+</div>
+
+
+
 <div class="row">
     <div class="col-sm-6 mt-3">
         {% include figure.html path="assets/img/rosa/robocup.png" title="example image" class="img-fluid rounded z-depth-1" %}
