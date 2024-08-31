@@ -153,5 +153,5 @@ related_publications: einstein1956investigations, einstein1950meaning
 </div>
 
 <div class="caption">
-In RoboCup, we were the only team composed entirely of undergraduate students, competing against teams with graduate-level or higher members. Lacking financial resources to build a robot, we visited schools, professors, and companies to borrow expensive equipment like motors and drivers. Despite these challenges, we placed 11th out of 24 teams in the finals and won the Best Student Paper Award at a domestic robotics academic conference in Korea.
+In RoboCup, we were the only team composed entirely of undergraduate students, competing against teams with graduate-level or higher members. Lacking financial resources to build a robot, we visited schools, professors, and companies to borrow expensive equipment like motors and drivers. Despite these challenges, we placed <b> 11th out of 24 teams in the finals </b> and won the <b> Best Student Paper Award </b> at a domestic robotics academic conference in Korea.
 </div>
