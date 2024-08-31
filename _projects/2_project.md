@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teleoperated Rescue Robot, ROSA
+title: <b> Teleoperated Rescue Robot, ROSA </b>
 description: Teleoperated Rescue Robot, ROSA, for RoboCup Rescue robot league (Undergraduate Project, 2016)
 img: assets/img/rosa/rosa.jpg
 importance: 1
