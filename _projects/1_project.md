@@ -14,19 +14,13 @@ related_publications: einstein1956investigations, einstein1950meaning
 <p><b>4. Advisor: Prof. Juhoon Back </b>
 <p><b>5. Required Skills: CAD design (Solidworks), Rasberry Pi (Linux), Serial Communication (RS-485), Motor Control (Dynamixels), C++ </b></p>
 
-<p><b> Team ROMANSA formed </b></p>
+<p><b> Team ROMANSA formed: </b></p>
 During my third year of college, we formed Team ROMANSA with like-minded students interested in building and operating real robots. Instead of joining an official club, we created our own team to conduct independent research, re-organizing a long-unused department storage room into our research lab.
 
-<style>
-    .custom-img-size {
-        max-width: 100%;
-        height: auto;
-    }
-</style>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rofa/office.png" title="example image" class="img-fluid rounded z-depth-1 custom-img-size" %}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rofa/office.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -34,7 +28,7 @@ During my third year of college, we formed Team ROMANSA with like-minded student
 </div>
 
 
-<p><b> ROmansa First Avenger (ROFA) </b>
+<p><b> ROmansa First Avenger (ROFA) </b></p>
 ROFA is a teleoperated rescue robot designed for disaster response, capable of tasks like jumping over hurdles, climbing ladders, opening doors, turning valves, and lifting victims. It features two caterpillar wheels and rear legs for traversing uneven terrain, while the front legs lift victims and raise the main body. Powered by a Raspberry Pi as its main controller and Dynamixel motors for actuation. ROFA is remotely operated through a camera feed from the robot’s perspective. 
 
 
