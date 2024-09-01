@@ -27,4 +27,15 @@ related_publications: einstein1956investigations, einstein1950meaning
     (From left in the first image) JoonhwanKim, Hansoul Kim, Jaemin You, Dongho Lee, Jeongdo Ahn, Minho Hwang, and <b>Donghoon Baek (me) </b>. 
 </div>
 
+<div class="row justify-content-center">
+    <div class="col-sm mt-10 mt-md-0">
+        {% include figure.html path="assets/img/k_flex/k_flex_m1.gif" title="Rescue Robot Challenge" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A rescue robot, ROFA, jumped over the huddles.
+</div>
+
+
+
 More details are updated soon.
