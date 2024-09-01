@@ -5,6 +5,7 @@ description:  A flexible robotic platform for scar-freeendoscopic surgery
 img: assets/img/k_flex/k_flex.png
 importance: 1
 category: work
+related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 <p><b>1. Project Description:</b> . </p>
