@@ -33,7 +33,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 </div>
 <div class="caption">
     
-<<<<<<< HEAD
+
 </div>
 
 <div class="row justify-content-center">
@@ -43,8 +43,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 </div>
 <div class="caption">
     
-=======
->>>>>>> 53ca676543f418635e4148b98ec29845efbd9493
+
 </div>
 
 
