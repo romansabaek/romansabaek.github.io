@@ -9,7 +9,7 @@ category: work
 
 <p><b>1. Project Description:</b> . </p>
 
-<p> Journal paper about a K-FLEX system: <a href="https://romansabaek.github.io/assets/pdf/kflex.pdf"></a></p>
+<p> Journal paper about a K-FLEX system: </p>
 
 <p><b>2. Project Period:</b> Aug 2017 ~ Dec 2019 </p>
 <p><b>3. Team Members:</b> Minho Hwang (team leader), JoonhwanKim, Jeongdo Ahn, Dongho Lee, Hansoul Kim, <b>Donghoon Baek</b>,Jaemin You, and Dong-Soo Kwon (advisor) </p>
