@@ -11,9 +11,9 @@ category: work
 
 
 <div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 text-center">
+    <div class="col-sm mt-10 mt-md-0 text-center">
         <video class="img-fluid rounded z-depth-1 mx-auto d-block" controls autoplay loop muted>
-            <source src="assets/video/habo/habo_final.mp4" type="video/mp4">
+            <source src="assets/video/habo/habo_demo.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
