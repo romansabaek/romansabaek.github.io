@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HABO 
+title: <b> Social Robot, HABO </b>
 description: Undergraduate Project
 img: assets/img/habo/HABO.png
 importance: 2

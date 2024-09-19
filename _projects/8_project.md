@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LG Gripper Design and Force Control
+title: <b> LG Gripper Design and Force Control </b>
 description: LG Project
 img: assets/img/lggripper.png
 importance: 2

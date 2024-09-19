@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hand Detection and Mobile Robot Navigation 
+title: <b> Hand Detection and Mobile Robot Navigation </b>
 description: Hand Detection and Mobile Robot Navigation
 img: assets/img/hand/hand.png
 importance: 2

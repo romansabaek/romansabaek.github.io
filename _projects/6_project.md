@@ -1,6 +1,6 @@
 ---
 layout: page
-title: mosq 
+title: <b> Automatic Blood Extraction Medical Device </b>
 description: Automatic Blood Extraction Medical Device (Start-up Company Project)
 img: assets/img/mosq/mosq.jpg
 importance: 2
