@@ -12,7 +12,7 @@ category: work
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/hand/lg_gripper.gif" title="lg_gripper" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
+        {% include figure.html path="assets/img/lg_gripper.gif" title="lg_gripper" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
     </div>
 </div>
 <div class="caption">
