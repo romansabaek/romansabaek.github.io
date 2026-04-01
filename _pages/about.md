@@ -23,7 +23,7 @@ Hello! I'm a Ph.D. student in Mechanical Science and Engineering at the [Univers
 My research interests lie in **State Estimation, Model-based and Learning-based Control, and Embodied AI**. My research goal is to build an intelligent robotic system capable of adapting and interacting with its surrounding environment. As a great application of this, I am interested in **humanoid robot**, **manipulation**, and **medical robot**. 
 
 <div style="text-align:center">
-<a href="https://romansabaek.github.io/files/Curriculum_Vitae__DonghoonBaek_.pdf">CV</a> /
+<a href="https://romansabaek.github.io/files/Curriculum_Vitae__DonghoonBaek__2026.pdf">CV</a> /
 <a href="mailto:romansabaek@gmail.com">Email </a> /
 <a href="https://scholar.google.com/citations?user=MbsEFrYAAAAJ">Google Scholar</a> /
 <a href="https://github.com/romansabaek?tab=repositories">Github</a>
