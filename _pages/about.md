@@ -25,9 +25,6 @@ Hello! I'm a Postdoctoral Researcher at the [Georgia Institute of Technology](ht
 **Research Interest:** Model-based and learning-based control, humanoid robots, and state estimation.
 
 **Research Question:** How can we build robots that are as adaptive and robust as humans—sensing and responding to their environment with the right force, timing, and judgment?
-
-**Approach:** I pursue this as a full-stack roboticist, from algorithm development and simulation to system integration and hardware.
-
 <div style="text-align:center">
 <a href="https://romansabaek.github.io/files/Curriculum_Vitae__DonghoonBaek__2026.pdf">CV</a> /
 <a href="mailto:romansabaek@gmail.com">Email </a> /
