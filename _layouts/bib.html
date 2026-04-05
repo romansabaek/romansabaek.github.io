@@ -2,7 +2,7 @@
 ---
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-4 {% if entry.preview %}preview{% else %}abbr{% endif %}" style="margin-right: 10px;">
+        <div class="col-sm-4 {% if entry.preview %}preview{% else %}abbr{% endif %}" style="padding-right: 15px;">
         {%- if entry.preview -%}
           {% if entry.preview contains '://' -%}
           {%- assign preview_ext = entry.preview | split:'.' | last %}
