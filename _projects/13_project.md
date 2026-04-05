@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <b> BAT: Balancing Agility and Stability for Humanoid Control </b>
+title: "<b> BAT: Balancing Agility and Stability for Humanoid Control </b>"
 description: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control (2026)
 img: assets/img/bat/bat_teaser.mp4
 importance: 1

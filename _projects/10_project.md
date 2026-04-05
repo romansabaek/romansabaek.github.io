@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <b> Switch-JustDance: Whole Body Motion Tracking Benchmark </b>
+title: "<b> Switch-JustDance: Whole Body Motion Tracking Benchmark </b>"
 description: Benchmarking Whole Body Motion Tracking Policies Using a Commercial Console Game (2025)
 img: assets/img/justdance/switch4eai_teaser.mp4
 importance: 1
