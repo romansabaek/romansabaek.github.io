@@ -7,9 +7,9 @@
           {% if entry.preview contains '://' -%}
           {%- assign preview_ext = entry.preview | split:'.' | last %}
           {%- if preview_ext == "mp4" or preview_ext == "webm" %}
-          <video class="preview z-depth-1 rounded" src="{{ entry.preview }}" autoplay loop muted playsinline style="width: 200px; height: 100px; object-fit: cover;"></video>
+          <video class="preview z-depth-1 rounded" src="{{ entry.preview }}" autoplay loop muted playsinline style="width: 100%; height: 140px; object-fit: cover;"></video>
           {%- else %}
-          <img data-zoomable class="preview z-depth-1 rounded" src="{{ entry.preview }}" style="width: 200px; height: 100px;">
+          <img data-zoomable class="preview z-depth-1 rounded" src="{{ entry.preview }}" style="width: 100%; height: 140px; object-fit: cover;">
           {%- endif %}
           {%- else -%}
             {%- assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' -%}
