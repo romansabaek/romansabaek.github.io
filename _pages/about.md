@@ -6,7 +6,7 @@ subtitle: <a href='#'> Reality = Vivid Dream.
 
 profile:
   align: left
-  image: me.jpg
+  image: me_satyrr.jpg
   image_circular: false # crops the image to make it circular
   address: #>
     # <p>ME Ph.D. Student</p>
